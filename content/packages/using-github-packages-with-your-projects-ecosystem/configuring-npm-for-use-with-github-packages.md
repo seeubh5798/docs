@@ -2,7 +2,7 @@
 title: Configuring npm for use with GitHub Packages
 intro: 'You can configure npm to publish packages to {% data variables.product.prodname_registry %} and to use packages stored on {% data variables.product.prodname_registry %} as dependencies in an npm project.'
 product: '{% data reusables.gated-features.packages %}'
-redirect_from:
+redirect_from: 
   - /articles/configuring-npm-for-use-with-github-package-registry
   - /github/managing-packages-with-github-package-registry/configuring-npm-for-use-with-github-package-registry
   - /github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages
